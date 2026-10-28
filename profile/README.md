@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/mockatoo-logo.png" alt="Mockatoo" width="128" height="128">
+  <img src="mockatoo-logo.png" alt="Mockatoo" width="128" height="128">
 </p>
 
 <h1 align="center">Mockatoo</h1>
