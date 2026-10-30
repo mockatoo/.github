@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mockatoo.globalunderdog.com">Website</a> ·
-  <a href="https://mockatoo.globalunderdog.com/docs">Documentation</a> ·
+  <a href="https://mockatoo.com">Website</a> ·
+  <a href="https://www.mockatoo.com/docs">Documentation</a> ·
   <a href="https://github.com/mockatoo/connectors">Connectors</a> ·
   <a href="https://app.mockatoo.globalunderdog.com">Create a test account</a>
 </p>
@@ -31,5 +31,5 @@ Mockatoo replaces live social providers outside production while keeping your ap
 ## Start here
 
 - [Mockatoo connectors](https://github.com/mockatoo/connectors) — open-source Better Auth and Auth.js connectors, examples, and docs.
-- [Documentation](https://mockatoo.globalunderdog.com/docs) — account flows, providers, and setup.
+- [Documentation](https://www.mockatoo.com/docs) — account flows, providers, and setup.
 - [Hosted OAuth server](https://app.mockatoo.globalunderdog.com) — create a test account and start developing.
