@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://mockatoo.com">Website</a> ·
-  <a href="https://www.mockatoo.com/docs">Documentation</a> ·
+  <a href="https://mockatoo.globalunderdog.com">Website</a> ·
+  <a href="https://mockatoo.globalunderdog.com/docs">Documentation</a> ·
   <a href="https://github.com/mockatoo/connectors">Connectors</a> ·
   <a href="https://app.mockatoo.globalunderdog.com">Create a test account</a>
 </p>
