@@ -31,5 +31,5 @@ Mockatoo replaces live social providers outside production while keeping your ap
 ## Start here
 
 - [Mockatoo connectors](https://github.com/mockatoo/connectors) — open-source Better Auth and Auth.js connectors, examples, and docs.
-- [Documentation](https://www.mockatoo.com/docs) — account flows, providers, and setup.
+- [Documentation](https://mockatoo.globalunderdog.com/docs) — account flows, providers, and setup.
 - [Hosted OAuth server](https://app.mockatoo.globalunderdog.com) — create a test account and start developing.
